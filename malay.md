@@ -54,7 +54,7 @@ Terjemahan:
 
 ## Kandungan
 
-[Single responsibility principle](#single-responsibility-principle)
+[Prinsip Tanggungjawab Tunggal](#single-responsibility-principle)
 
 [Besar pada models, kurus dalam controllers](#fat-models-skinny-controllers)
 
