@@ -48,7 +48,7 @@ Terjemahan:
 
 [اردو](urdu.md) (by [RizwanAshraf1](https://github.com/RizwanAshraf1))
 
-[Bahasa Melayu] (by [hardyweb](https://github.com/hardyweb)
+[Bahasa Melayu](malay.md) (by [hardyweb](https://github.com/hardyweb) )
 
 [![Laravel example app](/images/laravel-real-world-banner.png?raw=true)](https://github.com/alexeymezenin/laravel-realworld-example-app)
 
