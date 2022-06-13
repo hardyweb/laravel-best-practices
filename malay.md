@@ -92,11 +92,11 @@ Terjemahan:
 
 [Other good practices](#other-good-practices)
 
-### **Single responsibility principle**
+### **Prinsip Tanggungjawab Tunggal**
 
-A class and a method should have only one responsibility.
+Sesebuah Class dan Method seharusnya mempunyai tanggungjawab masing-masing.
 
-Bad:
+Baik:
 
 ```php
 public function getFullNameAttribute()
@@ -109,7 +109,7 @@ public function getFullNameAttribute()
 }
 ```
 
-Good:
+Lebih Baik:
 
 ```php
 public function getFullNameAttribute(): bool
