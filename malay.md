@@ -133,7 +133,7 @@ public function getFullNameShort(): string
 }
 ```
 
-[🔝 Back to contents](#contents)
+[🔝 Back to contents](#kandungan)
 
 ### **Fat models, skinny controllers**
 
@@ -175,7 +175,7 @@ class Client extends Model
 }
 ```
 
-[🔝 Back to contents](#contents)
+[🔝 Back to contents](#kandungan)
 
 ### **Validation**
 
@@ -217,7 +217,7 @@ class PostRequest extends Request
 }
 ```
 
-[🔝 Back to contents](#contents)
+[🔝 Back to contents](#kandungan)
 
 ### **Business logic should be in service class**
 
@@ -257,7 +257,7 @@ class ArticleService
 }
 ```
 
-[🔝 Back to contents](#contents)
+[🔝 Back to contents](#kandungan)
 
 ### **Don't repeat yourself (DRY)**
 
