@@ -54,9 +54,9 @@ Terjemahan:
 
 ## Kandungan
 
-[Prinsip Tanggungjawab Tunggal](#single-responsibility-principle)
+[Prinsip Tanggungjawab Tunggal](#prinsip-tanggungjawab-tunggal)
 
-[Besar pada models, kurus dalam controllers](#fat-models-skinny-controllers)
+[Besar dalam models, kurus dalam controllers](#fat-models-skinny-controllers)
 
 [Validasi](#validation)
 
@@ -135,7 +135,7 @@ public function getFullNameShort(): string
 
 [🔝 Back to contents](#kandungan)
 
-### **Fat models, skinny controllers**
+### **Besar dalam Models, Kurus dalam Controller**
 
 Put all DB related logic into Eloquent models.
 
