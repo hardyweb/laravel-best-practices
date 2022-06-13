@@ -1,10 +1,10 @@
 ![Laravel best practices](/images/logo-english.png?raw=true)
 
-You might also want to check out the [real-world Laravel example application](https://github.com/alexeymezenin/laravel-realworld-example-app)
+Anda mungkin mahu menyemak contoh aplikasi sebenar [real-world Laravel example application](https://github.com/alexeymezenin/laravel-realworld-example-app)
 
-Translations:
+Terjemahan: 
 
-[Nederlands](https://github.com/Protoqol/Beste-Laravel-Praktijken) (by [Protoqol](https://github.com/Protoqol))
+[Belanda](https://github.com/Protoqol/Beste-Laravel-Praktijken) (by [Protoqol](https://github.com/Protoqol))
 
 [Indonesia](indonesia.md) (by [P0rguy](https://github.com/p0rguy), [Doni Ahmad](https://github.com/donyahmd))
 
@@ -48,13 +48,15 @@ Translations:
 
 [اردو](urdu.md) (by [RizwanAshraf1](https://github.com/RizwanAshraf1))
 
+[Bahasa Melayu] (by [hardyweb](https://github.com/hardyweb)
+
 [![Laravel example app](/images/laravel-real-world-banner.png?raw=true)](https://github.com/alexeymezenin/laravel-realworld-example-app)
 
 ## Kandungan
 
 [Single responsibility principle](#single-responsibility-principle)
 
-[Fat models, skinny controllers](#fat-models-skinny-controllers)
+[Besar pada models, kurus dalam controllers](#fat-models-skinny-controllers)
 
 [Validasi](#validation)
 
@@ -62,13 +64,13 @@ Translations:
 
 [Jangan Ulangi Kod Anda (DRY)](#dont-repeat-yourself-dry)
 
-[Prefer to use Eloquent over using Query Builder and raw SQL queries. Prefer collections over arrays](#prefer-to-use-eloquent-over-using-query-builder-and-raw-sql-queries-prefer-collections-over-arrays)
+[Gunakan Eloquent berbanding Query Builder and raw SQL queries. Utamakan collections berbanding arrays](#prefer-to-use-eloquent-over-using-query-builder-and-raw-sql-queries-prefer-collections-over-arrays)
 
 [Mass assignment](#mass-assignment)
 
-[Do not execute queries in Blade templates and use eager loading (N + 1 problem)](#do-not-execute-queries-in-blade-templates-and-use-eager-loading-n--1-problem)
+[Jangan jalankan queries dalam template Blade dan gunakan eager loading (N + 1 problem)](#do-not-execute-queries-in-blade-templates-and-use-eager-loading-n--1-problem)
 
-[Chunk data for data-heavy tasks](#chunk-data-for-data-heavy-tasks)
+[pecah-pecahkan data untuk tugas data yang besar dan berat](#chunk-data-for-data-heavy-tasks)
 
 [Comment your code, but prefer descriptive method and variable names over comments](#comment-your-code-but-prefer-descriptive-method-and-variable-names-over-comments)
 
